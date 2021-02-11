@@ -1,1 +1,1 @@
-# KafkaBeginnerUdemy
+# KafkaProject
